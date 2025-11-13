@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Information technology
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> virtual lab
+<b> Experiment|     <b>allow users to measure the focal length of the individual lenses and the combined system
 
 ### About the Experiment 
 
