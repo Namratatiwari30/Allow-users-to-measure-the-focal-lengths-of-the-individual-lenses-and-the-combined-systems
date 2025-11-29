@@ -3,18 +3,18 @@
 
 <b>Discipline | <b>Information technology
 :--|:--|
-<b> Lab | <b> virtual lab
-<b> Experiment|     <b>allow users to measure the focal length of the individual lenses and the combined system
+<b> Lab | <b> Virtual lab
+<b> Experiment|     <b>Allow users to measure the focal length of the individual lenses and the combined system
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Namrata Tiwari
 :--|:--|
 <b> Institute | REC Banda<b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Email id|     <namratatiwari2005@gmail.com>  
+<b> Information Technology |  
 
 ### Contributors List
 
