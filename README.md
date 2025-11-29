@@ -14,11 +14,11 @@ Fill a brief description of this experiment here
 :--|:--|
 <b> Institute | REC Banda<b>  
 <b> Email id|     <namratatiwari2005@gmail.com>  
-<b> Information Technology |  
+<b> Department| Information Technology  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Namrata Tiwari | Student | Information Technology | REC Banda | namratatiwari2005@gmail.com
 2 | . | . | . | . | .
